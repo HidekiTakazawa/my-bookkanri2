@@ -1,1 +1,1 @@
-web: gunicorn --pythonpath booksite booksite.wsgi 　
+web: gunicorn --pythonpath booksite booksite.wsgi
